@@ -1,0 +1,5 @@
+package com.example.mobileinventory_management
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
